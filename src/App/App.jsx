@@ -12,7 +12,7 @@ import Services from '../Pages/Services/Services';
 import './App.scss'
 
 function App() {
-  
+
   return (
     <BrowserRouter>
       <Header />
