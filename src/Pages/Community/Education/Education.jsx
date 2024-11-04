@@ -1,8 +1,8 @@
 import React from 'react';
-import education1 from '../Education/img/education1.png';
-import education2 from '../Education/img/education2.png';
-import education3 from '../Education/img/education3.png';
-import education4 from '../Education/img/education4.png';
+import education1 from './img/education1.png';
+import education2 from './img/education2.png';
+import education3 from './img/education3.png';
+import education4 from './img/education4.png';
 
 import "./Education.scss"
 
@@ -103,7 +103,7 @@ function Education() {
 
           <div className='education-video-content-container'>
             <div className="row">
-         
+
               <div className="col-6">
                 <div className='education-text-video1'>
                   <h1 className='education-title-video1'>Lorem ipsum dolor sit amet consectetur.</h1>
